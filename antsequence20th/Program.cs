@@ -20,7 +20,7 @@ namespace antsequence20th
                 char cut = s[0];
                 int count = 0;
                 string s2 = "";
-                for(int i = 0; i < s.Length; i++)
+                for (int i = 0; i < s.Length; i++)
                 {
                     if (cut == s[i])
                     {
